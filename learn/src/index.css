@@ -1,0 +1,28 @@
+body{
+  background-image: url('bruce-barrow-rnlCcoJKfdI-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+#h{
+  height: fit-content;
+}
+
+#g{
+  height: fit-content;
+}
+
+#u{
+  height: fit-content;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; 
+  height: 20%;
+}
